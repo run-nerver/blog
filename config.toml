@@ -89,6 +89,10 @@ googleAnalytics = "UA-155010305-1"
     url = "posts/"
     weight = 10
 
+  [[menu.nav]]
+    name = "标签"
+    url = "tags/"
+    weight = 12
 
   [[menu.nav]]
     name = "关于"
