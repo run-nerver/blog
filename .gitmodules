@@ -1,3 +1,6 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/run-nerver/hermit.git
+[submodule "public"]
+	path = public
+	url = https://github.com/run-nerver/run-nerver.github.io.git
